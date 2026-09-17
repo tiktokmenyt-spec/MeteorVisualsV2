@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "meteorvisuals",
+  "version": "${version}",
+  "name": "MeteorVisuals",
+  "description": "Client-side visual enhancement mod for Minecraft. Purely cosmetic — no gameplay changes.",
+  "authors": [
+    "MeteorVisuals Team"
+  ],
+  "contact": {
+    "homepage": "https://example.com/meteorvisuals",
+    "sources": "https://github.com/tiktokmenyt-spec/MeteorVisualsV2"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "icon": "assets/meteorvisuals/icon.png",
+  "entrypoints": {
+    "client": [
+      "meteorvisuals.MeteorVisuals"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}

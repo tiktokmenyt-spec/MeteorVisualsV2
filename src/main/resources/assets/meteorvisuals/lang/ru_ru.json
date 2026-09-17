@@ -1,0 +1,7 @@
+{
+  "menu": {
+    "meteorvisuals.title": "MeteorVisuals",
+    "meteorvisuals.watermark.enabled": "Водяной знак включён",
+    "meteorvisuals.watermark.disabled": "Водяной знак выключен"
+  }
+}

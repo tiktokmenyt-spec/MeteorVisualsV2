@@ -1,0 +1,7 @@
+{
+  "menu": {
+    "meteorvisuals.title": "MeteorVisuals",
+    "meteorvisuals.watermark.enabled": "Watermark enabled",
+    "meteorvisuals.watermark.disabled": "Watermark disabled"
+  }
+}
